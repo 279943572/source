@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://139.129.204.157:80/service/ios-bshbs-for-bsh.ipa</string>
+                                        <string>http://elapp.365yunxueyuan.com/service/ios-bshbs-for-bsh.ipa</string>
                                 </dict>
                                 <dict>
                                         <key>kind</key>
@@ -19,7 +19,7 @@
                                         <key>needs-shine</key>
                                         <true/>
                                         <key>url</key>
-                                        <string>http://139.129.204.157:80/service/BSHBSClient.png</string>
+                                        <string>http://elapp.365yunxueyuan.com/service/BSHBSClient.png</string>
                                  </dict>
                         </array>
                         <key>metadata</key>
